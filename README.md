@@ -1,2 +1,5 @@
 # hello-world
-test repository
+
+Hey All
+
+Auron here, i love to code in c#
